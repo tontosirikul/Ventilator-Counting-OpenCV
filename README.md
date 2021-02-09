@@ -11,7 +11,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installing Ventilator Counting OpenCV
 
-To install <project_name>, follow these steps:
+To install Ventilator Counting OpenCV, follow these steps:
 
 Linux and macOS:
 ```
